@@ -5,7 +5,7 @@ This project requires routing audio on macOS using BlackHole and a Multi-Output 
 ---
 
 ## Prerequisites
-
+- **Mac OS (2ch)**
 - **Homebrew** (If you don't have it, install from [brew.sh](https://brew.sh/))
 - **BlackHole (2ch)**
 - **SwitchAudio-OSX** (for muting functionality)
