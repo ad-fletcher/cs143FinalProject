@@ -65,8 +65,6 @@ pip install -r requirements.txt
  
 ## 5. Run the Project
 
-> _Replace this section with your actual run instructions, e.g., `python main.py` or similar._
-
 Before running the project, you may need to identify the correct audio device index for BlackHole. You can typically list available audio devices using the list_devices script. Ensure the in settings that audio output is initially set to your Loopback or Multi-Output device.
 
 
@@ -84,7 +82,7 @@ Before running the project, you may need to identify the correct audio device in
 
 - [BlackHole GitHub](https://github.com/ExistentialAudio/BlackHole)
 - [Audio MIDI Setup Guide](https://support.apple.com/en-us/HT202000)
-
+- GPT assisted with code and debugging: [ChatGPT](https://chat.openai.com/chat)
 
 
 
